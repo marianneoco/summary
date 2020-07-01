@@ -7,3 +7,12 @@ git add .
 git commit -m"First commit"
 git remote add origin http...
 git push -u origin master
+
+To change:
+git remote set-url origin https://github.com/marianneoco/summary.git
+
+mkdir new_folder
+cd new_folder
+touch new_file
+
+start notepad++ index.html

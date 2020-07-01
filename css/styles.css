@@ -1,0 +1,15 @@
+h1{
+	color: red;
+}
+
+#title{
+	padding-left: 30px;
+}
+
+.item{
+	font-family: 'Helvetica', sans-serif;
+}
+
+*{
+	text-decoration: underline;
+}
